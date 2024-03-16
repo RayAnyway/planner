@@ -22,7 +22,6 @@ git clone https://github.com/RayAnyway/planner.git
 | Определение архитектуры | 20.10.2023      |   21.10.23 |
 | Функциональлный прототип | 21.10.23 | 20.12.23 |
 | Поправки | 20.12.23  | 25.12.23  |
-||||||
 
 ## Ссылки
 **[БД и Архитектура](https://miro.com/welcomeonboard/UjBlQjlZSVJ0Tk8zeWMza1JTT0tnRDJUWHA5U3dXa2VKcmw2ZmMycHZ6ZUY1RWt4aGUzTkw2Nng3aTRvaU02cHwzNDU4NzY0NTIzMzQ1MTIzNjA5fDI=?share_link_id=538530199095)**
