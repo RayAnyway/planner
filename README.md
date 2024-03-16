@@ -26,3 +26,4 @@ git clone https://github.com/RayAnyway/planner.git
 
 ## Ссылки
 **[БД и Архитектура](https://miro.com/welcomeonboard/UjBlQjlZSVJ0Tk8zeWMza1JTT0tnRDJUWHA5U3dXa2VKcmw2ZmMycHZ6ZUY1RWt4aGUzTkw2Nng3aTRvaU02cHwzNDU4NzY0NTIzMzQ1MTIzNjA5fDI=?share_link_id=538530199095)**
+**[Требования](https://www.notion.so/7012962cac9d4fda9a9f8597e4ce98e2?pvs=4)**
