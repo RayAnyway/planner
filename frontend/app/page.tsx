@@ -45,7 +45,7 @@ export default function IndexPage() {
   const [events, setEvents] = useState<Events>([])
 
   useEffect(() => {
-    fetch("http://localhost:8001/events/brief-month", {
+    fetch("https://watched-decorating-fantastic-newfoundland.trycloudflare.com/events/brief-month", {
       headers: {
         Accept: "application/json",
         "Content-Type": "application/json",
@@ -65,7 +65,7 @@ export default function IndexPage() {
 
     setSelectedDate(date)
     await fetch(
-      `http://localhost:8001/events/date/${
+      `https://watched-decorating-fantastic-newfoundland.trycloudflare.com/events/date/${
         adjustedDateFromISO.toISOString().split("T")[0]
       }`
     )
