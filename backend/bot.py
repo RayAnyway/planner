@@ -50,7 +50,7 @@ help_message = """
 @bot.message_handler(commands=['start'])
 def start_message(message):
     bot.send_message(message.chat.id, 'Привет! Я - бот планнер. Я помогу тебе синхронизировать события из календаря и создавать новые. Для получения списка команд введи /help')
-    
+
 
 @bot.message_handler(content_types=['text'])
 def sync_calendar(message):
