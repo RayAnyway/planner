@@ -35,3 +35,11 @@ class EventModel:
         self.cursor.execute("SELECT * FROM events WHERE id = %s", (event_id,))
         return self.cursor.fetchone()
     
+    def get_mocked_events():
+        return {
+            "events": [
+                {"id": 1, "name": "Event 1"},
+                {"id": 2, "name": "Event 2"},
+            ]
+        }
+
