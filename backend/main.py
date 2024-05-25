@@ -13,4 +13,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+print("Starting")
+
 app.include_router(event_router)
